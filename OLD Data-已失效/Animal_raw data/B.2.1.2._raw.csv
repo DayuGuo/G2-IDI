@@ -1,0 +1,221 @@
+iso,code,country,B.2.1.2_raw_2016-2020
+ABW,533,Aruba,NA
+AFG,4,Afghanistan,1
+AGO,24,Angola,NA
+AIA,660,Anguilla,NA
+ALB,8,Albania,NA
+AND,20,Andorra,1
+ARE,784,United Arab Emirates,1
+ARG,32,Argentina,1
+ARM,51,Armenia,1
+ATG,28,Antigua and Barbuda,NA
+AUS,36,Australia,NA
+AUT,40,Austria,1
+AZE,31,Azerbaijan,1
+BDI,108,Burundi,NA
+BEL,56,Belgium,1
+BEN,204,Benin,NA
+BFA,854,Burkina Faso,NA
+BGD,50,Bangladesh,1
+BGR,100,Bulgaria,1
+BHR,48,Bahrain,NA
+BHS,44,Bahamas,NA
+BIH,70,Bosnia and Herzegovina,1
+BLM,652,Saint Barthelemy,NA
+BLR,112,Belarus,1
+BLZ,84,Belize,1
+BMU,60,Bermuda,NA
+BOL,68,Bolivia,NA
+BRA,76,Brazil,1
+BRB,52,Barbados,NA
+BRN,96,Brunei Darussalam,NA
+BTN,64,Bhutan,1
+BWA,72,Botswana,1
+CAF,140,Central African Republic,NA
+CAN,124,Canada,1
+CHE,756,Switzerland,1
+CHL,152,Chile,1
+CHN,156,China,1
+CIV,384,Cote d'Ivoire,NA
+CMR,120,Cameroon,1
+COD,180,Dem. Rep. Congo,1
+COG,178,Republic of Congo,NA
+COK,184,Cook Islands,NA
+COL,170,Colombia,1
+COM,174,Comoros,NA
+CPV,132,Cabo Verde,NA
+CRI,188,Costa Rica,1
+CUB,192,Cuba,1
+CUW,531,Curacao,NA
+CYM,136,Cayman Islands,NA
+CYP,196,Cyprus,1
+CZE,203,Czech Republic,NA
+DEU,276,Germany,1
+DJI,262,Djibouti,NA
+DMA,212,Dominica,NA
+DNK,208,Denmark,1
+DOM,214,Dominican Republic,1
+DZA,12,Algeria,1
+ECU,218,Ecuador,NA
+EGY,818,Egypt,1
+ERI,232,Eritrea,NA
+ESH,732,Western Sahara,NA
+ESP,724,Spain,1
+EST,233,Estonia,1
+ETH,231,Ethiopia,NA
+FIN,246,Finland,1
+FJI,242,Fiji,NA
+FLK,238,Falkland Islands,NA
+FRA,250,France,NA
+FRO,234,Faeroe Islands,NA
+FSM,583,Micronesia,NA
+GAB,266,Gabon,NA
+GBR,826,United Kingdom,1
+GEO,268,Georgia,1
+GGY,831,Guernsey,NA
+GHA,288,Ghana,NA
+GIN,324,Guinea,NA
+GMB,270,Gambia,NA
+GNB,624,Guinea-Bissau,NA
+GNQ,226,Equatorial Guinea,NA
+GRC,300,Greece,1
+GRD,308,Grenada,NA
+GRL,304,Greenland,1
+GTM,320,Guatemala,NA
+GUY,328,Guyana,NA
+HKG,344,Hong Kong,1
+HND,340,Honduras,NA
+HRV,191,Croatia,1
+HTI,332,Haiti,NA
+HUN,348,Hungary,1
+IDN,360,Indonesia,1
+IMN,833,Isle of Man,NA
+IND,356,India,1
+IRL,372,Ireland,1
+IRN,364,Iran,1
+IRQ,368,Iraq,NA
+ISL,352,Iceland,NA
+ISR,376,Israel,1
+ITA,380,Italy,1
+JAM,388,Jamaica,NA
+JEY,832,Jersey,NA
+JOR,400,Jordan,NA
+JPN,392,Japan,1
+KAZ,398,Kazakhstan,1
+KEN,404,Kenya,1
+KGZ,417,Kyrgyzstan,1
+KHM,116,Cambodia,NA
+KIR,296,Kiribati,NA
+KNA,659,Saint Kitts and Nevis,NA
+KOR,410,South Korea,1
+KWT,414,Kuwait,NA
+LAO,418,Laos,1
+LBN,422,Lebanon,NA
+LBR,430,Liberia,NA
+LBY,434,Libya,NA
+LCA,662,Saint Lucia,NA
+LIE,438,Liechtenstein,1
+LKA,144,Sri Lanka,NA
+LSO,426,Lesotho,NA
+LTU,440,Lithuania,1
+LUX,442,Luxembourg,NA
+LVA,428,Latvia,1
+MAC,446,Macao,NA
+MAR,504,Morocco,1
+MCO,492,Monaco,NA
+MDA,498,Moldova,1
+MDG,450,Madagascar,NA
+MDV,462,Maldives,NA
+MEX,484,Mexico,1
+MHL,584,Marshall Islands,NA
+MKD,807,North Macedonia,NA
+MLI,466,Mali,NA
+MLT,470,Malta,NA
+MMR,104,Myanmar,NA
+MNE,499,Montenegro,1
+MNG,496,Mongolia,1
+MOZ,508,Mozambique,1
+MRT,478,Mauritania,NA
+MUS,480,Mauritius,NA
+MWI,454,Malawi,1
+MYS,458,Malaysia,1
+NAM,516,Namibia,1
+NCL,540,New Caledonia,NA
+NER,562,Niger,1
+NGA,566,Nigeria,NA
+NIC,558,Nicaragua,NA
+NIU,570,Niue,NA
+NLD,528,Netherlands,1
+NOR,578,Norway,1
+NPL,524,Nepal,1
+NRU,520,Nauru,NA
+NZL,554,New Zealand,1
+OMN,512,Oman,1
+PAK,586,Pakistan,1
+PAN,591,Panama,NA
+PER,604,Peru,1
+PHL,608,Philippines,NA
+PLW,585,Palau,NA
+PNG,598,Papua New Guinea,NA
+POL,616,Poland,1
+PRK,408,North Korea,NA
+PRT,620,Portugal,1
+PRY,600,Paraguay,1
+PSE,275,State of Palestine,NA
+PYF,258,French Polynesia,NA
+QAT,634,Qatar,NA
+ROU,642,Romania,1
+RUS,643,Russia,1
+RWA,646,Rwanda,NA
+SAU,682,Saudi Arabia,1
+SDN,729,Sudan,1
+SEN,686,Senegal,1
+SGP,702,Singapore,1
+SLB,90,Solomon Islands,NA
+SLE,694,Sierra Leone,NA
+SLV,222,El Salvador,NA
+SMR,674,San Marino,NA
+SOM,706,Somalia,NA
+SRB,688,Serbia,1
+SSD,728,South Sudan,NA
+STP,678,Sao Tome and Principe,NA
+SUR,740,Suriname,NA
+SVK,703,Slovakia,1
+SVN,705,Slovenia,1
+SWE,752,Sweden,1
+SWZ,748,Eswatini,1
+SXM,534,Sint Maarten,NA
+SYC,690,Seychelles,NA
+SYR,760,Syria,NA
+TCA,796,Turks and Caicos Islands,NA
+TCD,148,Chad,NA
+TGO,768,Togo,NA
+THA,764,Thailand,1
+TJK,762,Tajikistan,NA
+TKM,795,Turkmenistan,1
+TLS,626,Timor-Leste,NA
+TON,776,Tonga,NA
+TTO,780,Trinidad and Tobago,NA
+TUN,788,Tunisia,1
+TUR,792,Turkey,1
+TUV,798,Tuvalu,NA
+TWN,158,Taiwan,NA
+TZA,834,Tanzania,1
+UGA,800,Uganda,1
+UKR,804,Ukraine,1
+URY,858,Uruguay,1
+USA,840,United States of America,1
+UZB,860,Uzbekistan,NA
+VAT,336,Holy See,NA
+VCT,670,Saint Vincent and the Grenadines,NA
+VEN,862,Venezuela,NA
+VGB,92,British Virgin Islands,NA
+VNM,704,Viet Nam,NA
+VUT,548,Vanuatu,NA
+WLF,876,Wallis and Futuna Islands,NA
+WSM,882,Samoa,NA
+XKX,689,Kosovo,NA
+YEM,887,Yemen,NA
+ZAF,710,South Africa,NA
+ZMB,894,Zambia,1
+ZWE,716,Zimbabwe,1

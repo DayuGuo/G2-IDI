@@ -1,0 +1,221 @@
+iso,code,country,B.3.4.6_raw_2019
+ABW,533,Aruba,NA
+AFG,4,Afghanistan,98.155
+AGO,24,Angola,83.043
+AIA,660,Anguilla,NA
+ALB,8,Albania,68.901
+AND,20,Andorra,NA
+ARE,784,United Arab Emirates,36.283
+ARG,32,Argentina,56.588
+ARM,51,Armenia,75.858
+ATG,28,Antigua and Barbuda,NA
+AUS,36,Australia,7.815
+AUT,40,Austria,20.163
+AZE,31,Azerbaijan,66.682
+BDI,108,Burundi,98.893
+BEL,56,Belgium,13.262
+BEN,204,Benin,97.399
+BFA,854,Burkina Faso,98.112
+BGD,50,Bangladesh,95.738
+BGR,100,Bulgaria,50.464
+BHR,48,Bahrain,32.554
+BHS,44,Bahamas,NA
+BIH,70,Bosnia and Herzegovina,67.408
+BLM,652,Saint Barthelemy,NA
+BLR,112,Belarus,60.815
+BLZ,84,Belize,75.79
+BMU,60,Bermuda,NA
+BOL,68,Bolivia,85.524
+BRA,76,Brazil,57.026
+BRB,52,Barbados,46.318
+BRN,96,Brunei Darussalam,16.202
+BTN,64,Bhutan,83.519
+BWA,72,Botswana,66.858
+CAF,140,Central African Republic,98.785
+CAN,124,Canada,14.107
+CHE,756,Switzerland,0.382
+CHL,152,Chile,58.227
+CHN,156,China,69.811
+CIV,384,Cote d'Ivoire,95.957
+CMR,120,Cameroon,96.416
+COD,180,Dem. Rep. Congo,NA
+COG,178,Republic of Congo,83.691
+COK,184,Cook Islands,NA
+COL,170,Colombia,73.807
+COM,174,Comoros,NA
+CPV,132,Cabo Verde,79.725
+CRI,188,Costa Rica,57.863
+CUB,192,Cuba,NA
+CUW,531,Curacao,NA
+CYM,136,Cayman Islands,NA
+CYP,196,Cyprus,28.773
+CZE,203,Czech Republic,33.455
+DEU,276,Germany,17.73
+DJI,262,Djibouti,96.403
+DMA,212,Dominica,NA
+DNK,208,Denmark,4.755
+DOM,214,Dominican Republic,73.197
+DZA,12,Algeria,70.356
+ECU,218,Ecuador,76.219
+EGY,818,Egypt,75.519
+ERI,232,Eritrea,NA
+ESH,732,Western Sahara,NA
+ESP,724,Spain,19.21
+EST,233,Estonia,44.734
+ETH,231,Ethiopia,98.382
+FIN,246,Finland,15.803
+FJI,242,Fiji,74.82
+FLK,238,Falkland Islands,NA
+FRA,250,France,10.927
+FRO,234,Faeroe Islands,NA
+FSM,583,Micronesia,NA
+GAB,266,Gabon,63.665
+GBR,826,United Kingdom,0
+GEO,268,Georgia,69.648
+GGY,831,Guernsey,NA
+GHA,288,Ghana,93.335
+GIN,324,Guinea,97.438
+GMB,270,Gambia,95.605
+GNB,624,Guinea-Bissau,NA
+GNQ,226,Equatorial Guinea,NA
+GRC,300,Greece,28.15
+GRD,308,Grenada,NA
+GRL,304,Greenland,NA
+GTM,320,Guatemala,82.481
+GUY,328,Guyana,73.674
+HKG,344,Hong Kong,NA
+HND,340,Honduras,89.755
+HRV,191,Croatia,49.837
+HTI,332,Haiti,NA
+HUN,348,Hungary,42.425
+IDN,360,Indonesia,74.85
+IMN,833,Isle of Man,NA
+IND,356,India,90.605
+IRL,372,Ireland,20.712
+IRN,364,Iran,60.163
+IRQ,368,Iraq,70.318
+ISL,352,Iceland,8.991
+ISR,376,Israel,38.494
+ITA,380,Italy,25.742
+JAM,388,Jamaica,74.18
+JEY,832,Jersey,NA
+JOR,400,Jordan,77.481
+JPN,392,Japan,13.481
+KAZ,398,Kazakhstan,61.524
+KEN,404,Kenya,96.399
+KGZ,417,Kyrgyzstan,94.215
+KHM,116,Cambodia,95.953
+KIR,296,Kiribati,NA
+KNA,659,Saint Kitts and Nevis,NA
+KOR,410,South Korea,33.18
+KWT,414,Kuwait,32.923
+LAO,418,Laos,90.343
+LBN,422,Lebanon,65.618
+LBR,430,Liberia,NA
+LBY,434,Libya,NA
+LCA,662,Saint Lucia,NA
+LIE,438,Liechtenstein,NA
+LKA,144,Sri Lanka,73.923
+LSO,426,Lesotho,95.996
+LTU,440,Lithuania,48.06
+LUX,442,Luxembourg,19.73
+LVA,428,Latvia,55.309
+MAC,446,Macao,NA
+MAR,504,Morocco,81.021
+MCO,492,Monaco,NA
+MDA,498,Moldova,83.691
+MDG,450,Madagascar,98.429
+MDV,462,Maldives,61.644
+MEX,484,Mexico,59.27
+MHL,584,Marshall Islands,NA
+MKD,807,North Macedonia,67.086
+MLI,466,Mali,97.425
+MLT,470,Malta,38.764
+MMR,104,Myanmar,94.189
+MNE,499,Montenegro,54.979
+MNG,496,Mongolia,78.575
+MOZ,508,Mozambique,98.558
+MRT,478,Mauritania,95.004
+MUS,480,Mauritius,57.627
+MWI,454,Malawi,98.807
+MYS,458,Malaysia,53.227
+NAM,516,Namibia,73.429
+NCL,540,New Caledonia,NA
+NER,562,Niger,98.85
+NGA,566,Nigeria,90.918
+NIC,558,Nicaragua,90.292
+NIU,570,Niue,NA
+NLD,528,Netherlands,8.116
+NOR,578,Norway,0
+NPL,524,Nepal,96.867
+NRU,520,Nauru,NA
+NZL,554,New Zealand,18.502
+OMN,512,Oman,33.219
+PAK,586,Pakistan,91.785
+PAN,591,Panama,60.382
+PER,604,Peru,73.906
+PHL,608,Philippines,84.069
+PLW,585,Palau,NA
+PNG,598,Papua New Guinea,96.249
+POL,616,Poland,50.811
+PRK,408,North Korea,NA
+PRT,620,Portugal,29.79
+PRY,600,Paraguay,70.554
+PSE,275,State of Palestine,NA
+PYF,258,French Polynesia,NA
+QAT,634,Qatar,42.545
+ROU,642,Romania,51.738
+RUS,643,Russia,52.206
+RWA,646,Rwanda,98.425
+SAU,682,Saudi Arabia,25.468
+SDN,729,Sudan,91.914
+SEN,686,Senegal,95.781
+SGP,702,Singapore,15.318
+SLB,90,Solomon Islands,NA
+SLE,694,Sierra Leone,98.502
+SLV,222,El Salvador,77.056
+SMR,674,San Marino,NA
+SOM,706,Somalia,NA
+SRB,688,Serbia,60.7
+SSD,728,South Sudan,NA
+STP,678,Sao Tome and Principe,94.592
+SUR,740,Suriname,60.485
+SVK,703,Slovakia,46.09
+SVN,705,Slovenia,36.197
+SWE,752,Sweden,14.472
+SWZ,748,Eswatini,73.841
+SXM,534,Sint Maarten,NA
+SYC,690,Seychelles,NA
+SYR,760,Syria,78.618
+TCA,796,Turks and Caicos Islands,NA
+TCD,148,Chad,97.343
+TGO,768,Togo,96.923
+THA,764,Thailand,61.588
+TJK,762,Tajikistan,NA
+TKM,795,Turkmenistan,73.094
+TLS,626,Timor-Leste,NA
+TON,776,Tonga,NA
+TTO,780,Trinidad and Tobago,33.348
+TUN,788,Tunisia,73.266
+TUR,792,Turkey,57.082
+TUV,798,Tuvalu,NA
+TWN,158,Taiwan,NA
+TZA,834,Tanzania,96.721
+UGA,800,Uganda,97.412
+UKR,804,Ukraine,67.639
+URY,858,Uruguay,55.605
+USA,840,United States of America,10.764
+UZB,860,Uzbekistan,NA
+VAT,336,Holy See,NA
+VCT,670,Saint Vincent and the Grenadines,NA
+VEN,862,Venezuela,54.91
+VGB,92,British Virgin Islands,NA
+VNM,704,Viet Nam,89.288
+VUT,548,Vanuatu,96.275
+WLF,876,Wallis and Futuna Islands,NA
+WSM,882,Samoa,NA
+XKX,689,Kosovo,NA
+YEM,887,Yemen,94.352
+ZAF,710,South Africa,70.446
+ZMB,894,Zambia,96.421
+ZWE,716,Zimbabwe,96.215

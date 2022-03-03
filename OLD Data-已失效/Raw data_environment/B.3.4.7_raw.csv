@@ -1,0 +1,221 @@
+iso,code,country,B.3.4.7_raw_2017&2018,year
+ABW,533,Aruba,NA,NA
+AFG,4,Afghanistan,NA,NA
+AGO,24,Angola,NA,NA
+AIA,660,Anguilla,NA,NA
+ALB,8,Albania,NA,NA
+AND,20,Andorra,NA,NA
+ARE,784,United Arab Emirates,NA,NA
+ARG,32,Argentina,NA,NA
+ARM,51,Armenia,NA,NA
+ATG,28,Antigua and Barbuda,NA,NA
+AUS,36,Australia,0.832,2017
+AUT,40,Austria,0.654,2018
+AZE,31,Azerbaijan,NA,NA
+BDI,108,Burundi,NA,NA
+BEL,56,Belgium,0.509,2018
+BEN,204,Benin,NA,NA
+BFA,854,Burkina Faso,NA,NA
+BGD,50,Bangladesh,NA,NA
+BGR,100,Bulgaria,NA,NA
+BHR,48,Bahrain,NA,NA
+BHS,44,Bahamas,NA,NA
+BIH,70,Bosnia and Herzegovina,NA,NA
+BLM,652,Saint Barthelemy,NA,NA
+BLR,112,Belarus,NA,NA
+BLZ,84,Belize,NA,NA
+BMU,60,Bermuda,NA,NA
+BOL,68,Bolivia,NA,NA
+BRA,76,Brazil,NA,NA
+BRB,52,Barbados,NA,NA
+BRN,96,Brunei Darussalam,NA,NA
+BTN,64,Bhutan,NA,NA
+BWA,72,Botswana,NA,NA
+CAF,140,Central African Republic,NA,NA
+CAN,124,Canada,NA,NA
+CHE,756,Switzerland,0.918,2018
+CHL,152,Chile,1.188,2017
+CHN,156,China,NA,NA
+CIV,384,Cote d'Ivoire,NA,NA
+CMR,120,Cameroon,NA,NA
+COD,180,Dem. Rep. Congo,NA,NA
+COG,178,Republic of Congo,NA,NA
+COK,184,Cook Islands,NA,NA
+COL,170,Colombia,NA,NA
+COM,174,Comoros,NA,NA
+CPV,132,Cabo Verde,NA,NA
+CRI,188,Costa Rica,NA,NA
+CUB,192,Cuba,NA,NA
+CUW,531,Curacao,NA,NA
+CYM,136,Cayman Islands,NA,NA
+CYP,196,Cyprus,NA,NA
+CZE,203,Czech Republic,0.628,2018
+DEU,276,Germany,0.549,2018
+DJI,262,Djibouti,NA,NA
+DMA,212,Dominica,NA,NA
+DNK,208,Denmark,1.1,2018
+DOM,214,Dominican Republic,NA,NA
+DZA,12,Algeria,NA,NA
+ECU,218,Ecuador,NA,NA
+EGY,818,Egypt,NA,NA
+ERI,232,Eritrea,NA,NA
+ESH,732,Western Sahara,NA,NA
+ESP,724,Spain,0.835,2018
+EST,233,Estonia,0.779,2018
+ETH,231,Ethiopia,NA,NA
+FIN,246,Finland,0.871,2018
+FJI,242,Fiji,NA,NA
+FLK,238,Falkland Islands,NA,NA
+FRA,250,France,0.809,2018
+FRO,234,Faeroe Islands,NA,NA
+FSM,583,Micronesia,NA,NA
+GAB,266,Gabon,NA,NA
+GBR,826,United Kingdom,0.705,2018
+GEO,268,Georgia,NA,NA
+GGY,831,Guernsey,NA,NA
+GHA,288,Ghana,NA,NA
+GIN,324,Guinea,NA,NA
+GMB,270,Gambia,NA,NA
+GNB,624,Guinea-Bissau,NA,NA
+GNQ,226,Equatorial Guinea,NA,NA
+GRC,300,Greece,1.139,2017
+GRD,308,Grenada,NA,NA
+GRL,304,Greenland,NA,NA
+GTM,320,Guatemala,NA,NA
+GUY,328,Guyana,NA,NA
+HKG,344,Hong Kong,NA,NA
+HND,340,Honduras,NA,NA
+HRV,191,Croatia,NA,NA
+HTI,332,Haiti,NA,NA
+HUN,348,Hungary,0.661,2018
+IDN,360,Indonesia,NA,NA
+IMN,833,Isle of Man,NA,NA
+IND,356,India,NA,NA
+IRL,372,Ireland,0.94,2017
+IRN,364,Iran,NA,NA
+IRQ,368,Iraq,NA,NA
+ISL,352,Iceland,1.372,2017
+ISR,376,Israel,1.434,2018
+ITA,380,Italy,0.619,2018
+JAM,388,Jamaica,NA,NA
+JEY,832,Jersey,NA,NA
+JOR,400,Jordan,NA,NA
+JPN,392,Japan,0.735,2017
+KAZ,398,Kazakhstan,NA,NA
+KEN,404,Kenya,NA,NA
+KGZ,417,Kyrgyzstan,NA,NA
+KHM,116,Cambodia,NA,NA
+KIR,296,Kiribati,NA,NA
+KNA,659,Saint Kitts and Nevis,NA,NA
+KOR,410,South Korea,0.422,2016
+KWT,414,Kuwait,NA,NA
+LAO,418,Laos,NA,NA
+LBN,422,Lebanon,NA,NA
+LBR,430,Liberia,NA,NA
+LBY,434,Libya,NA,NA
+LCA,662,Saint Lucia,NA,NA
+LIE,438,Liechtenstein,NA,NA
+LKA,144,Sri Lanka,NA,NA
+LSO,426,Lesotho,NA,NA
+LTU,440,Lithuania,0.527,2018
+LUX,442,Luxembourg,0.837,2018
+LVA,428,Latvia,0.788,2018
+MAC,446,Macao,NA,NA
+MAR,504,Morocco,NA,NA
+MCO,492,Monaco,NA,NA
+MDA,498,Moldova,NA,NA
+MDG,450,Madagascar,NA,NA
+MDV,462,Maldives,NA,NA
+MEX,484,Mexico,0.935,2012
+MHL,584,Marshall Islands,NA,NA
+MKD,807,North Macedonia,NA,NA
+MLI,466,Mali,NA,NA
+MLT,470,Malta,NA,NA
+MMR,104,Myanmar,NA,NA
+MNE,499,Montenegro,NA,NA
+MNG,496,Mongolia,NA,NA
+MOZ,508,Mozambique,NA,NA
+MRT,478,Mauritania,NA,NA
+MUS,480,Mauritius,NA,NA
+MWI,454,Malawi,NA,NA
+MYS,458,Malaysia,NA,NA
+NAM,516,Namibia,NA,NA
+NCL,540,New Caledonia,NA,NA
+NER,562,Niger,NA,NA
+NGA,566,Nigeria,NA,NA
+NIC,558,Nicaragua,NA,NA
+NIU,570,Niue,NA,NA
+NLD,528,Netherlands,0.624,2018
+NOR,578,Norway,1.195,2018
+NPL,524,Nepal,NA,NA
+NRU,520,Nauru,NA,NA
+NZL,554,New Zealand,NA,NA
+OMN,512,Oman,NA,NA
+PAK,586,Pakistan,NA,NA
+PAN,591,Panama,NA,NA
+PER,604,Peru,NA,NA
+PHL,608,Philippines,NA,NA
+PLW,585,Palau,NA,NA
+PNG,598,Papua New Guinea,NA,NA
+POL,616,Poland,0.593,2018
+PRK,408,North Korea,NA,NA
+PRT,620,Portugal,0.975,2018
+PRY,600,Paraguay,NA,NA
+PSE,275,State of Palestine,NA,NA
+PYF,258,French Polynesia,NA,NA
+QAT,634,Qatar,NA,NA
+ROU,642,Romania,NA,NA
+RUS,643,Russia,NA,NA
+RWA,646,Rwanda,NA,NA
+SAU,682,Saudi Arabia,NA,NA
+SDN,729,Sudan,NA,NA
+SEN,686,Senegal,NA,NA
+SGP,702,Singapore,NA,NA
+SLB,90,Solomon Islands,NA,NA
+SLE,694,Sierra Leone,NA,NA
+SLV,222,El Salvador,NA,NA
+SMR,674,San Marino,NA,NA
+SOM,706,Somalia,NA,NA
+SRB,688,Serbia,NA,NA
+SSD,728,South Sudan,NA,NA
+STP,678,Sao Tome and Principe,NA,NA
+SUR,740,Suriname,NA,NA
+SVK,703,Slovakia,0.721,2018
+SVN,705,Slovenia,0.337,2018
+SWE,752,Sweden,0.653,2018
+SWZ,748,Eswatini,NA,NA
+SXM,534,Sint Maarten,NA,NA
+SYC,690,Seychelles,NA,NA
+SYR,760,Syria,NA,NA
+TCA,796,Turks and Caicos Islands,NA,NA
+TCD,148,Chad,NA,NA
+TGO,768,Togo,NA,NA
+THA,764,Thailand,NA,NA
+TJK,762,Tajikistan,NA,NA
+TKM,795,Turkmenistan,NA,NA
+TLS,626,Timor-Leste,NA,NA
+TON,776,Tonga,NA,NA
+TTO,780,Trinidad and Tobago,NA,NA
+TUN,788,Tunisia,NA,NA
+TUR,792,Turkey,0.994,2018
+TUV,798,Tuvalu,NA,NA
+TWN,158,Taiwan,NA,NA
+TZA,834,Tanzania,NA,NA
+UGA,800,Uganda,NA,NA
+UKR,804,Ukraine,NA,NA
+URY,858,Uruguay,NA,NA
+USA,840,United States of America,1.319,2017
+UZB,860,Uzbekistan,NA,NA
+VAT,336,Holy See,NA,NA
+VCT,670,Saint Vincent and the Grenadines,NA,NA
+VEN,862,Venezuela,NA,NA
+VGB,92,British Virgin Islands,NA,NA
+VNM,704,Viet Nam,NA,NA
+VUT,548,Vanuatu,NA,NA
+WLF,876,Wallis and Futuna Islands,NA,NA
+WSM,882,Samoa,NA,NA
+XKX,689,Kosovo,NA,NA
+YEM,887,Yemen,NA,NA
+ZAF,710,South Africa,NA,NA
+ZMB,894,Zambia,NA,NA
+ZWE,716,Zimbabwe,NA,NA

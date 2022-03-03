@@ -1,0 +1,221 @@
+iso,code,country,B.2.4.4_raw_2020
+ABW,533,Aruba,0
+AFG,4,Afghanistan,0
+AGO,24,Angola,10
+AIA,660,Anguilla,0
+ALB,8,Albania,0
+AND,20,Andorra,0
+ARE,784,United Arab Emirates,0
+ARG,32,Argentina,85
+ARM,51,Armenia,2
+ATG,28,Antigua and Barbuda,0
+AUS,36,Australia,255
+AUT,40,Austria,0
+AZE,31,Azerbaijan,0
+BDI,108,Burundi,1
+BEL,56,Belgium,0
+BEN,204,Benin,0
+BFA,854,Burkina Faso,0
+BGD,50,Bangladesh,0
+BGR,100,Bulgaria,0
+BHR,48,Bahrain,0
+BHS,44,Bahamas,1
+BIH,70,Bosnia and Herzegovina,0
+BLM,652,Saint Barthelemy,NA
+BLR,112,Belarus,0
+BLZ,84,Belize,0
+BMU,60,Bermuda,0
+BOL,68,Bolivia,21
+BRA,76,Brazil,203
+BRB,52,Barbados,0
+BRN,96,Brunei Darussalam,0
+BTN,64,Bhutan,0
+BWA,72,Botswana,0
+CAF,140,Central African Republic,2
+CAN,124,Canada,5
+CHE,756,Switzerland,0
+CHL,152,Chile,15
+CHN,156,China,88
+CIV,384,Cote d'Ivoire,1
+CMR,120,Cameroon,18
+COD,180,Dem. Rep. Congo,39
+COG,178,Republic of Congo,4
+COK,184,Cook Islands,0
+COL,170,Colombia,45
+COM,174,Comoros,4
+CPV,132,Cabo Verde,0
+CRI,188,Costa Rica,5
+CUB,192,Cuba,0
+CUW,531,Curacao,0
+CYM,136,Cayman Islands,19
+CYP,196,Cyprus,1
+CZE,203,Czech Republic,0
+DEU,276,Germany,0
+DJI,262,Djibouti,0
+DMA,212,Dominica,1
+DNK,208,Denmark,0
+DOM,214,Dominican Republic,0
+DZA,12,Algeria,1
+ECU,218,Ecuador,33
+EGY,818,Egypt,5
+ERI,232,Eritrea,0
+ESH,732,Western Sahara,0
+ESP,724,Spain,3
+EST,233,Estonia,0
+ETH,231,Ethiopia,38
+FIN,246,Finland,0
+FJI,242,Fiji,1
+FLK,238,Falkland Islands,1
+FRA,250,France,0
+FRO,234,Faeroe Islands,0
+FSM,583,Micronesia,3
+GAB,266,Gabon,3
+GBR,826,United Kingdom,0
+GEO,268,Georgia,0
+GGY,831,Guernsey,0
+GHA,288,Ghana,1
+GIN,324,Guinea,2
+GMB,270,Gambia,0
+GNB,624,Guinea-Bissau,0
+GNQ,226,Equatorial Guinea,3
+GRC,300,Greece,2
+GRD,308,Grenada,1
+GRL,304,Greenland,0
+GTM,320,Guatemala,6
+GUY,328,Guyana,0
+HKG,344,Hong Kong,0
+HND,340,Honduras,6
+HRV,191,Croatia,0
+HTI,332,Haiti,7
+HUN,348,Hungary,0
+IDN,360,Indonesia,295
+IMN,833,Isle of Man,0
+IND,356,India,54
+IRL,372,Ireland,0
+IRN,364,Iran,9
+IRQ,368,Iraq,0
+ISL,352,Iceland,0
+ISR,376,Israel,1
+ITA,380,Italy,4
+JAM,388,Jamaica,0
+JEY,832,Jersey,0
+JOR,400,Jordan,0
+JPN,392,Japan,46
+KAZ,398,Kazakhstan,4
+KEN,404,Kenya,19
+KGZ,417,Kyrgyzstan,1
+KHM,116,Cambodia,0
+KIR,296,Kiribati,0
+KNA,659,Saint Kitts and Nevis,0
+KOR,410,South Korea,0
+KWT,414,Kuwait,0
+LAO,418,Laos,4
+LBN,422,Lebanon,0
+LBR,430,Liberia,0
+LBY,434,Libya,2
+LCA,662,Saint Lucia,1
+LIE,438,Liechtenstein,0
+LKA,144,Sri Lanka,18
+LSO,426,Lesotho,0
+LTU,440,Lithuania,0
+LUX,442,Luxembourg,0
+LVA,428,Latvia,0
+MAC,446,Macao,0
+MAR,504,Morocco,4
+MCO,492,Monaco,0
+MDA,498,Moldova,0
+MDG,450,Madagascar,213
+MDV,462,Maldives,0
+MEX,484,Mexico,152
+MHL,584,Marshall Islands,0
+MKD,807,North Macedonia,0
+MLI,466,Mali,1
+MLT,470,Malta,0
+MMR,104,Myanmar,5
+MNE,499,Montenegro,0
+MNG,496,Mongolia,0
+MOZ,508,Mozambique,3
+MRT,478,Mauritania,0
+MUS,480,Mauritius,2
+MWI,454,Malawi,3
+MYS,458,Malaysia,20
+NAM,516,Namibia,3
+NCL,540,New Caledonia,6
+NER,562,Niger,0
+NGA,566,Nigeria,5
+NIC,558,Nicaragua,2
+NIU,570,Niue,0
+NLD,528,Netherlands,0
+NOR,578,Norway,0
+NPL,524,Nepal,2
+NRU,520,Nauru,0
+NZL,554,New Zealand,4
+OMN,512,Oman,0
+PAK,586,Pakistan,3
+PAN,591,Panama,12
+PER,604,Peru,57
+PHL,608,Philippines,133
+PLW,585,Palau,2
+PNG,598,Papua New Guinea,83
+POL,616,Poland,1
+PRK,408,North Korea,0
+PRT,620,Portugal,1
+PRY,600,Paraguay,1
+PSE,275,State of Palestine,0
+PYF,258,French Polynesia,0
+QAT,634,Qatar,0
+ROU,642,Romania,2
+RUS,643,Russia,21
+RWA,646,Rwanda,1
+SAU,682,Saudi Arabia,0
+SDN,729,Sudan,8
+SEN,686,Senegal,0
+SGP,702,Singapore,1
+SLB,90,Solomon Islands,19
+SLE,694,Sierra Leone,0
+SLV,222,El Salvador,0
+SMR,674,San Marino,0
+SOM,706,Somalia,9
+SRB,688,Serbia,0
+SSD,728,South Sudan,1
+STP,678,Sao Tome and Principe,6
+SUR,740,Suriname,0
+SVK,703,Slovakia,0
+SVN,705,Slovenia,0
+SWE,752,Sweden,0
+SWZ,748,Eswatini,0
+SXM,534,Sint Maarten,0
+SYC,690,Seychelles,3
+SYR,760,Syria,1
+TCA,796,Turks and Caicos Islands,0
+TCD,148,Chad,0
+TGO,768,Togo,0
+THA,764,Thailand,5
+TJK,762,Tajikistan,0
+TKM,795,Turkmenistan,0
+TLS,626,Timor-Leste,1
+TON,776,Tonga,0
+TTO,780,Trinidad and Tobago,0
+TUN,788,Tunisia,1
+TUR,792,Turkey,8
+TUV,798,Tuvalu,0
+TWN,158,Taiwan,19
+TZA,834,Tanzania,33
+UGA,800,Uganda,0
+UKR,804,Ukraine,3
+URY,858,Uruguay,3
+USA,840,United States of America,104
+UZB,860,Uzbekistan,0
+VAT,336,Holy See,0
+VCT,670,Saint Vincent and the Grenadines,2
+VEN,862,Venezuela,28
+VGB,92,British Virgin Islands,0
+VNM,704,Viet Nam,20
+VUT,548,Vanuatu,2
+WLF,876,Wallis and Futuna Islands,0
+WSM,882,Samoa,2
+XKX,689,Kosovo,NA
+YEM,887,Yemen,4
+ZAF,710,South Africa,37
+ZMB,894,Zambia,5
+ZWE,716,Zimbabwe,0
