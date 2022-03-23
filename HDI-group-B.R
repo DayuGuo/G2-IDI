@@ -19,9 +19,8 @@ test <- data %>%
   )
 
 country_highlight <- c(
-  "Germany", "Norway", "United States of America", "Greece", "Singapore", "Rwanda", 
-  "Russia", "Venezuela", "Sudan", "Iraq", "Ghana", "Niger", "Chad", "Kuwait", 
-  "Qatar", "Myanmar", "Nepal", "Chile", "Argentina", "Japan", "China"
+  "Germany", "Norway", "United States of America", "China","Oman","Turkmenistan","Russia", 
+  "Pakistan", "Niger","Senegal","Tajikistan","Jordan"
 )
 
 test <- test %>%
@@ -52,4 +51,5 @@ expohi = ggplot(test, aes(HDI, B)) +
   ylab("Global One Health Intrinsic Drivers Index scores")+
   theme_test() 
 
-ggsave("HDIgroup-B", units="in", width=8, height=4, dpi=600, compression = 'lzw')
+ggsave("HDIgroup-B.pdf", width=8, height=4, dpi=600)
+
