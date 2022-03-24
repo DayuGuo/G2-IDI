@@ -52,3 +52,41 @@ cid=data %>%
   ylab("Density")
 
 ggsave("cditest.pdf", units="in", width=8, height=4, dpi=600)
+
+#test
+library(ggplot2)
+library(ggridges)
+iris  = iris
+
+library(readr)
+data <- read_csv("IDI分布情况.csv")
+
+data <- data %>%
+  gather(key="text", value="value") %>%
+  mutate(text = gsub("\\.", " ",text)) %>%
+  mutate(value = round(as.numeric(value),0))
+
+# Plot
+cid=data %>%
+  mutate(text = fct_reorder(text, value)) %>%
+  ggplot( aes(y=text, x=value,  fill=text)) +
+  stat_density_ridges(scale = 0.9,
+                      quantile_lines = TRUE)
+
+
+data %>%
+  mutate(text = fct_reorder(text, value)) %>%
+  ggplot( aes(y=text, x=value,  fill=text))+
+  geom_density_ridges(
+    jittered_points = TRUE, quantile_lines = TRUE, scale = 0.6, alpha = 0.7,
+    vline_size = 1, vline_color = "red",
+    point_size = 0.4, point_alpha = 1,
+    position = position_raincloud(adjust_vlines = TRUE)
+  )+
+  theme(legend.position="none")+
+  xlab("Scores") +
+  ylab("Density")+
+  theme_ridges()
+ggsave("cditest.pdf", units="in", width=12, height=4, dpi=600)
+
+

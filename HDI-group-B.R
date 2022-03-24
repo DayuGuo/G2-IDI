@@ -19,8 +19,10 @@ test <- data %>%
   )
 
 country_highlight <- c(
-  "Germany", "Norway", "United States of America", "China","Oman","Turkmenistan","Russia", 
-  "Pakistan", "Niger","Senegal","Tajikistan","Jordan"
+  "Senegal","Tajikistan","Jordan","Norway",
+  "Chad","Namibia","Gabon","Mauritius",
+  "United States of America","China","Germany",
+  "Sudan","Russia","Iraq"
 )
 
 test <- test %>%
