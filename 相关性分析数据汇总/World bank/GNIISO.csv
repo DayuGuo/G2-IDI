@@ -1,0 +1,267 @@
+﻿Country,Country Code
+Zimbabwe,ZWE
+Zambia,ZMB
+"Yemen, Rep.",YEM
+World,WLD
+West Bank and Gaza,PSE
+Virgin Islands (U.S.),VIR
+Vietnam,VNM
+"Venezuela, RB",VEN
+Vanuatu,VUT
+Uzbekistan,UZB
+Uruguay,URY
+Upper middle income,UMC
+United States,USA
+United Kingdom,GBR
+United Arab Emirates,ARE
+Ukraine,UKR
+Uganda,UGA
+Tuvalu,TUV
+Turks and Caicos Islands,TCA
+Turkmenistan,TKM
+Turkey,TUR
+Tunisia,TUN
+Trinidad and Tobago,TTO
+Tonga,TON
+Togo,TGO
+Timor-Leste,TLS
+Thailand,THA
+Tanzania,TZA
+Tajikistan,TJK
+Syrian Arab Republic,SYR
+Switzerland,CHE
+Sweden,SWE
+Suriname,SUR
+Sudan,SDN
+Sub-Saharan Africa (IDA & IBRD countries),TSS
+Sub-Saharan Africa (excluding high income),SSA
+Sub-Saharan Africa,SSF
+St. Vincent and the Grenadines,VCT
+St. Martin (French part),MAF
+St. Lucia,LCA
+St. Kitts and Nevis,KNA
+Sri Lanka,LKA
+Spain,ESP
+South Sudan,SSD
+South Asia (IDA & IBRD),TSA
+South Asia,SAS
+South Africa,ZAF
+Somalia,SOM
+Solomon Islands,SLB
+Small states,SST
+Slovenia,SVN
+Slovak Republic,SVK
+Sint Maarten (Dutch part),SXM
+Singapore,SGP
+Sierra Leone,SLE
+Seychelles,SYC
+Serbia,SRB
+Senegal,SEN
+Saudi Arabia,SAU
+Sao Tome and Principe,STP
+San Marino,SMR
+Samoa,WSM
+Rwanda,RWA
+Russian Federation,RUS
+Romania,ROU
+Qatar,QAT
+Puerto Rico,PRI
+Pre-demographic dividend,PRE
+Post-demographic dividend,PST
+Portugal,PRT
+Poland,POL
+Philippines,PHL
+Peru,PER
+Paraguay,PRY
+Papua New Guinea,PNG
+Panama,PAN
+Palau,PLW
+Pakistan,PAK
+Pacific island small states,PSS
+Other small states,OSS
+Oman,OMN
+OECD members,OED
+Not classified,INX
+Norway,NOR
+Northern Mariana Islands,MNP
+North Macedonia,MKD
+North America,NAC
+Nigeria,NGA
+Niger,NER
+Nicaragua,NIC
+New Zealand,NZL
+New Caledonia,NCL
+Netherlands,NLD
+Nepal,NPL
+Nauru,NRU
+Namibia,NAM
+Myanmar,MMR
+Mozambique,MOZ
+Morocco,MAR
+Montenegro,MNE
+Mongolia,MNG
+Monaco,MCO
+Moldova,MDA
+Middle income,MIC
+Middle East & North Africa (IDA & IBRD countries),TMN
+Middle East & North Africa (excluding high income),MNA
+Middle East & North Africa,MEA
+"Micronesia, Fed. Sts.",FSM
+Mexico,MEX
+Mauritius,MUS
+Mauritania,MRT
+Marshall Islands,MHL
+Malta,MLT
+Mali,MLI
+Maldives,MDV
+Malaysia,MYS
+Malawi,MWI
+Madagascar,MDG
+"Macao SAR, China",MAC
+Luxembourg,LUX
+Lower middle income,LMC
+Low income,LIC
+Low & middle income,LMY
+Lithuania,LTU
+Liechtenstein,LIE
+Libya,LBY
+Liberia,LBR
+Lesotho,LSO
+Lebanon,LBN
+Least developed countries: UN classification,LDC
+Latvia,LVA
+Latin America & the Caribbean (IDA & IBRD countries),TLA
+Latin America & Caribbean (excluding high income),LAC
+Latin America & Caribbean,LCN
+Late-demographic dividend,LTE
+Lao PDR,LAO
+Kyrgyz Republic,KGZ
+Kuwait,KWT
+Kosovo,XKX
+"Korea, Rep.",KOR
+"Korea, Dem. People's Rep.",PRK
+Kiribati,KIR
+Kenya,KEN
+Kazakhstan,KAZ
+Jordan,JOR
+Japan,JPN
+Jamaica,JAM
+Italy,ITA
+Israel,ISR
+Isle of Man,IMN
+Ireland,IRL
+Iraq,IRQ
+"Iran, Islamic Rep.",IRN
+Indonesia,IDN
+India,IND
+IDA total,IDA
+IDA only,IDX
+IDA blend,IDB
+IDA & IBRD total,IBT
+Iceland,ISL
+IBRD only,IBD
+Hungary,HUN
+"Hong Kong SAR, China",HKG
+Honduras,HND
+High income,HIC
+Heavily indebted poor countries (HIPC),HPC
+Haiti,HTI
+Guyana,GUY
+Guinea-Bissau,GNB
+Guinea,GIN
+Guatemala,GTM
+Guam,GUM
+Grenada,GRD
+Greenland,GRL
+Greece,GRC
+Gibraltar,GIB
+Ghana,GHA
+Germany,DEU
+Georgia,GEO
+"Gambia, The",GMB
+Gabon,GAB
+French Polynesia,PYF
+France,FRA
+Fragile and conflict affected situations,FCS
+Finland,FIN
+Fiji,FJI
+Faroe Islands,FRO
+European Union,EUU
+Europe & Central Asia (IDA & IBRD countries),TEC
+Europe & Central Asia (excluding high income),ECA
+Europe & Central Asia,ECS
+Euro area,EMU
+Ethiopia,ETH
+Eswatini,SWZ
+Estonia,EST
+Eritrea,ERI
+Equatorial Guinea,GNQ
+El Salvador,SLV
+"Egypt, Arab Rep.",EGY
+Ecuador,ECU
+East Asia & Pacific (IDA & IBRD countries),TEA
+East Asia & Pacific (excluding high income),EAP
+East Asia & Pacific,EAS
+Early-demographic dividend,EAR
+Dominican Republic,DOM
+Dominica,DMA
+Djibouti,DJI
+Denmark,DNK
+Czech Republic,CZE
+Cyprus,CYP
+Curacao,CUW
+Cuba,CUB
+Croatia,HRV
+Cote d'Ivoire,CIV
+Costa Rica,CRI
+"Congo, Rep.",COG
+"Congo, Dem. Rep.",COD
+Comoros,COM
+Colombia,COL
+China,CHN
+Chile,CHL
+Channel Islands,CHI
+Chad,TCD
+Central Europe and the Baltics,CEB
+Central African Republic,CAF
+Cayman Islands,CYM
+Caribbean small states,CSS
+Canada,CAN
+Cameroon,CMR
+Cambodia,KHM
+Cabo Verde,CPV
+Burundi,BDI
+Burkina Faso,BFA
+Bulgaria,BGR
+Brunei Darussalam,BRN
+British Virgin Islands,VGB
+Brazil,BRA
+Botswana,BWA
+Bosnia and Herzegovina,BIH
+Bolivia,BOL
+Bhutan,BTN
+Bermuda,BMU
+Benin,BEN
+Belize,BLZ
+Belgium,BEL
+Belarus,BLR
+Barbados,BRB
+Bangladesh,BGD
+Bahrain,BHR
+"Bahamas, The",BHS
+Azerbaijan,AZE
+Austria,AUT
+Australia,AUS
+Aruba,ABW
+Armenia,ARM
+Argentina,ARG
+Arab World,ARB
+Antigua and Barbuda,ATG
+Angola,AGO
+Andorra,AND
+American Samoa,ASM
+Algeria,DZA
+Albania,ALB
+Africa Western and Central,AFW
+Africa Eastern and Southern,AFE
+Afghanistan,AFG
